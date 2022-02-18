@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shivamaggarwal5570
-- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Different Android projects
 - 📫 Reach me at shivamaggarwal5570@gmail.com
